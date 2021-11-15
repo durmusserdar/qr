@@ -1,0 +1,18 @@
+#div-0 { padding: 20px; }
+
+#div-1 { padding: 50px; }
+
+div {
+  /* other styling */
+  background-color: #ff7a59;
+  border-radius: 10px;
+  color: #2D3E50;
+  font-family: 'Avenir';
+	font-weight: bold;
+  margin: 20px;
+  display: inline-block;
+  text-align: center;
+}
+.pClass {
+    font-variant: small-caps;
+}
